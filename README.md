@@ -1,9 +1,9 @@
 # Horiseon Challenge
 
 ## Code Refraction
-    -To format the webpage to be more acccessible, and to be formatted with semantic Html elements. Such as addings the <header>, <section>, <main>, <article>, <div>, <aside>, and <footer> tags to the code. 
-    -To make the webpage follow a logical structure that is indpendent of styling and positioning.
-    -Make all images have accessible alt attributes.
+    -To format the webpage to be more acccessible, and to be formatted with semantic Html elements.
+     Such as adding the <header>, <section>, <main>, <article>, <div>, <aside>, and <footer>, tags to the code. 
+    - To mgitake all images have accessible alt attributes.
     -The heading attributes will be in sequential order.
     -The title element will be concise, and descriptive. 
  
